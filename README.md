@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I would like to be a Developer
 ------------------------------
 
-* 🌍  I'm based in t
+* 🌍  I'm based in thailand
 * ✉️  You can contact me at [hero.phumiphat@gmail.com](mailto:hero.phumiphat@gmail.com)
 * 🧠  I'm learning react-redux, express.js
 
