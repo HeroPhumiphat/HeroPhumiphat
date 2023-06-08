@@ -42,7 +42,7 @@ I would like to be a Developer.
 
 > English -> 100 WPM (https://monkeytype.com/profile/Herophumiphat639) -->
 
-### Badges
+<!-- ### Badges -->
 
 <!-- <b>My GitHub Stats</b>
 
